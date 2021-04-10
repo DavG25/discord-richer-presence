@@ -1,0 +1,7 @@
+{
+  "runAtBoot": false,
+  "runAsMinimized": false,
+  "autoLoadProfile": false,
+  "autoLoadProfileName": "",
+  "autoStartProfile": false
+}

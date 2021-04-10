@@ -1,0 +1,10 @@
+{
+  "enabled": false,
+  "triggers": [
+    {
+      "path": false,
+      "name": null,
+      "action": false
+    }
+  ]
+}
