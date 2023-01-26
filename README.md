@@ -18,6 +18,9 @@ Only follow this section if you want to debug and/or build the application from 
 ```
 git clone https://github.com/DavG25/discord-richer-presence.git
 ```
+### Node version
+Use [Node version](https://nodejs.org/en/blog/release/v14.14.0/) `14.14.0` (this will be changed in the future)
+
 ### Install dependencies
 ```
 npm install
