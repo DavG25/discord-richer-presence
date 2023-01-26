@@ -1,6 +1,6 @@
 {
   "name": "discord-richer-presence",
-  "version": "1.0.0-alpha",
+  "version": "1.0.1-alpha",
   "private": true,
   "description": "Powerful tool to customize your Discord Rich Presence",
   "author": "DavG25 <contact@davg25.com> (https://davg25.com)",
@@ -28,6 +28,7 @@
     "electron-updater": "^4.3.8",
     "express": "^4.17.1",
     "is-uri": "^1.2.0",
+    "json5": "^2.2.2",
     "moment": "^2.29.1",
     "node-fetch": "^2.6.1",
     "normalize-path": "^3.0.0",
